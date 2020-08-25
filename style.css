@@ -194,3 +194,10 @@ button img{
     text-align: center;
     color: sienna;
 }
+.back .item6{
+    background-color:#0f1c31;
+    width: 40vw;
+    height: 15vh;
+    top: 68em;
+    left: 55vw;
+}
